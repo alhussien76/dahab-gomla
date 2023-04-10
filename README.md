@@ -12,4 +12,4 @@ Dahab Gomla is a simple website for sell and buy gold.
 - Rxjs
 - Angular Material
 - PrimeNg
-- Bootstrab 5
+- Bootstrap 5
